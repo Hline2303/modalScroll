@@ -1,0 +1,8 @@
+Au défilement/scroll de la page (event) vers le bas
+la div modal-container (élément) apparaît (action)
+
+Au clic (event) sur le bouton (élément)
+la div code (élément) apparaît (action)
+
+Au clic (event) sur l'îcone (élément)
+la div modal-container (élément) disparaît (action)
